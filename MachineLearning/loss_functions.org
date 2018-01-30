@@ -9,3 +9,7 @@ https://www.jianshu.com/p/ffa51250ba2e
 
 
 
+** 序列区分行目标函数
+声学模型学习笔记（五） SDT(MMI/BMMI/MPE/sMBR)　最大互信息, 最小因素误差
+http://blog.csdn.net/xmdxcsj/article/details/52760111
+
