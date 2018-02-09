@@ -1,4 +1,8 @@
-splicing of features        特征的剪切?
+at which                    在
+while                       在…期间; 同时
+ensuring                    确保
+splicing                    拼接
+splicing of features        特征的拼接?
 Outline                     大纲
 types of                    各种类型的
 identified                  识别 辨认 以...鉴别.
@@ -8,7 +12,7 @@ temporal                    时间的 暂存的
 acyclic                     无环 无循环
 allocated                   被分配
 quantities                  变量 量
-fixed                       固定的
+fixed                       固定的!!!
 characteristics             特点 特性
 applicable                  可以应用的
 splitting up                划分开 
@@ -83,3 +87,60 @@ mirrors                     镜像
 shortcut                    快捷
 collaborator                合作者
 manipulations               操作
+a host of                   许多 一大群
+sanity                      神志正常, 正常
+laying the groundwork       奠定了基础
+more generality             更加通用
+colon                       : 冒号
+stochastic                  随机
+perturb                     扰乱
+notation                    评分
+empirically                 经验上
+clarity                     清晰
+temporal                    时间的
+long term                   长期
+scenarios                   剧情/情况
+exploit                     开发 利用
+representattions            表现
+adopt                       采用
+parallelization             并行化
+extent                      程度
+modular                     模块化
+incremental                 增量
+Despite                     尽管
+instantaneous               瞬间的
+discriminative              有判断力
+experimental                实验
+conclusions                 结论
+Relevant                    有关的
+modulation                  调制
+proposed                    被提议 建议
+spectro-temporal dynamics   动态时间谱
+competitive                 竞争力的
+unfolding                   展开,呈现
+impose                      强加, 以...欺骗
+learn                       学习
+learnt                      学会
+convolutional               卷积 CNN
+precursor                   前驱者
+hyper-parameter             超参数
+localized                   局部性的
+overlap                     重叠
+gaps                        缺口
+coincidence                 巧合
+offsets                     偏置量
+multiples of 3              3的倍数
+stacked                     堆积的
+jointly                     联合的 共同的
+asymmetric                  不对称的
+latency                     延时,  潜在因素
+optimal                     最理想的
+perspective                 观点
+explored                    探索,测试
+detrimental                 不利的
+phenomenon                  现象
+were not ready in time      还没准备好
+truncation                  截断
+is subject to               使服从，使遭受, 受.. 影响
+sliding window              滑动窗口
+variety                     多样性
