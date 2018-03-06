@@ -144,3 +144,17 @@ truncation                  截断
 is subject to               使服从，使遭受, 受.. 影响
 sliding window              滑动窗口
 variety                     多样性
+varient                     变体
+periodical                  周期的
+penalized                   对..施加惩罚
+compulsory                  必须的
+at the expense of           牺牲
+obligatory                  强制性的
+principal                   本质的
+delimiter                   分隔符
+consistency                 一致性
+demonstrating               显示
+recipes                     方法
+archives                    归档文件(压缩文件的统称)
+chunk                       块.
+duration                    持续时间
