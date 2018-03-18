@@ -1,0 +1,160 @@
+at which                    在
+while                       在…期间; 同时
+ensuring                    确保
+splicing                    拼接
+splicing of features        特征的拼接?
+Outline                     大纲
+types of                    各种类型的
+identified                  识别 辨认 以...鉴别.
+is responsible for          是为了
+interpreted                 解释 把...理解为...
+temporal                    时间的 暂存的
+acyclic                     无环 无循环
+allocated                   被分配
+quantities                  变量 量
+fixed                       固定的!!!
+characteristics             特点 特性
+applicable                  可以应用的
+splitting up                划分开 
+split                       划分
+recurrence                  重复 循环
+dump                        转储 仓库
+preceded                    在...之前
+immediately                 直接 立刻
+convenience                 方便
+expression                  表达 表示  --- 表达式
+perspective                 远端观点 较高的观点
+bear                        熊, 保持.
+hierarchy                   层次
+precisely                   精确
+syntax                      语法 有序的排列
+internally                  内部
+is supposed to              应该
+restrictive                 限制的 严谨的
+carried out                 实施
+derived                     推导出的 衍生出的
+Failover                    失效备用的
+potentially                 可能的 潜在的
+evaluated                   估计
+hassle                      争论
+slightly messy              略显凌乱的
+relevant                    有关的
+explanatory                 解释性的 说明的
+compilation                 编译
+consume                     消耗, 使用
+arbitrary                   随意的
+back and forth              来回的 一来一往的
+redundant                   冗余的 多余的
+envisaged                   设想
+so that                     以便于!!!
+certain                     某一 已确定的
+motivate                    促进 激发
+opposite                    对立的
+sophisticated               复杂 深奥的
+terminate                   结束
+make use of                 利用
+regardless of               不管
+infinitely                  无限的
+refrain                     抑制
+breadth                     广度
+maintain                    保持
+populating                  填充
+principle                   原则
+evaluate                    求值 估算
+individually                各自的
+particularly                特别 尤其
+roughly                     大致上 粗略地
+arrange                     整理
+identical                   相同的
+put aside                   放在旁边
+put them on the side        把他们放在一边
+followed by                 随后
+end up                      最后结果是
+excessive                   过量的
+phases                      阶段
+derivatives                 导数
+is familiar with            熟悉
+compicated                  复杂的
+remind                      提醒
+reserve                     保留
+set up                      建立
+Recall                      回忆 回想
+term                        形式, 公式中的部分
+broken down                 分解
+pads                        给...装垫子, 给...增加底线
+valid                       有效的
+mirrors                     镜像
+shortcut                    快捷
+collaborator                合作者
+manipulations               操作
+a host of                   许多 一大群
+sanity                      神志正常, 正常
+laying the groundwork       奠定了基础
+more generality             更加通用
+colon                       : 冒号
+stochastic                  随机
+perturb                     扰乱
+notation                    评分
+empirically                 经验上
+clarity                     清晰
+temporal                    时间的
+long term                   长期
+scenarios                   剧情/情况
+exploit                     开发 利用
+representattions            表现
+adopt                       采用
+parallelization             并行化
+extent                      程度
+modular                     模块化
+incremental                 增量
+Despite                     尽管
+instantaneous               瞬间的
+discriminative              有判断力
+experimental                实验
+conclusions                 结论
+Relevant                    有关的
+modulation                  调制
+proposed                    被提议 建议
+spectro-temporal dynamics   动态时间谱
+competitive                 竞争力的
+unfolding                   展开,呈现
+impose                      强加, 以...欺骗
+learn                       学习
+learnt                      学会
+convolutional               卷积 CNN
+precursor                   前驱者
+hyper-parameter             超参数
+localized                   局部性的
+overlap                     重叠
+gaps                        缺口
+coincidence                 巧合
+offsets                     偏置量
+multiples of 3              3的倍数
+stacked                     堆积的
+jointly                     联合的 共同的
+asymmetric                  不对称的
+latency                     延时,  潜在因素
+optimal                     最理想的
+perspective                 观点
+explored                    探索,测试
+detrimental                 不利的
+phenomenon                  现象
+were not ready in time      还没准备好
+truncation                  截断
+is subject to               使服从，使遭受, 受.. 影响
+sliding window              滑动窗口
+variety                     多样性
+varient                     变体
+periodical                  周期的
+penalized                   对..施加惩罚
+compulsory                  必须的
+at the expense of           牺牲
+obligatory                  强制性的
+principal                   本质的
+delimiter                   分隔符
+consistency                 一致性
+demonstrating               显示
+recipes                     方法
+archives                    归档文件(压缩文件的统称)
+chunk                       块.
+duration                    持续时间

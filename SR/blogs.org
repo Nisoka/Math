@@ -1,0 +1,6 @@
+语音识别介绍
+http://blog.csdn.net/qwwersong/article/details/78362357?fps=1&locationNum=8
+当前端到端的语音识别介绍
+https://www.zhihu.com/question/46829056
+出门问问当前技术 概况
+https://baijia.baidu.com/s?old_id=736745
