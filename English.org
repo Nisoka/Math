@@ -158,3 +158,21 @@ recipes                     方法
 archives                    归档文件(压缩文件的统称)
 chunk                       块.
 duration                    持续时间
+overlap                     重叠
+gaps                        空白
+unify                       统一
+relevant                    相关的
+padding                     陪衬材料
+accuracy                    精度
+participate                 参与到
+sophisticated               复杂的
+no point                    没有理由
+refrain                     避免, 抑制.
+trivial                     琐碎的
+prevent                     防止
+finer                       更好的
+acycle                      无环, 非循环的
+be subject to               受支配
+pending                     等待的
+memo                        备忘录
+Retrieves                   恢复, 取回
