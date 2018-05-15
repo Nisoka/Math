@@ -1,25 +1,55 @@
+
+
+1 矩阵本质上就是定义了一个空间坐标基. 
+2 矩阵本质上就是一个带旋转, 拉伸的变换. 变换的可以是基下的点 可以是某个空间基.
+
 * 矩阵本质
+  1 矩阵本质上就是定义了一个空间坐标基. 
+  2 矩阵本质上就是一个带旋转, 拉伸的变换. 变换的可以是基下的点 可以是某个空间基.
   myan 孟岩
   https://blog.csdn.net/myan/article/details/647511
+  科学空间 苏剑林
+  https://spaces.ac.cn/archives/1768
   
 
 * 矩阵乘法的本质
+
+  1 矩阵本质上就是定义了一个空间坐标基. 
+  2 矩阵本质上就是一个带旋转, 拉伸的变换. 变换的可以是基下的点 可以是某个空间基.
+
   matongxue
   https://www.zhihu.com/question/21351965/answer/204058188
+  矩阵乘法的本质 就是矩阵的本质, 就是线性变换, 就是空间坐标基的变换
+
+
+  
 
 
 
 * 特征向量 特征值 PCA SVD
+  
+  2 矩阵本质上是一个带旋转 拉伸的变换, 
+  而特征值 就描述了其中的拉伸变换的拉伸因子, 特征向量 就描述了其中的旋转变换.
+  相当于，特征向量的旋转指明了拉伸的方向，
+  特征值就是拉伸的大小
+  特征向量指明了拉伸的方向
 
   matongxue 特征值 特征向量的本质(good)
   https://www.matongxue.com/madocs/228.html
   机器学习中的数学(5)-强大的矩阵奇异值分解(SVD)及其应用
   http://www.cnblogs.com/LeftNotEasy/archive/2011/01/19/svd-and-applications.html
 
-
-
+* 相似矩阵的本质
+  
+  matongxue
+  https://www.zhihu.com/question/20501504/answer/174887899
+  认为相似矩阵 就是同一个矩阵 在不同坐标基下的表示
+  I*Matrix ==  M^(-1)*Matrix2*M
+  表示 matrix 与 matrix2 相似
 
 * 行列式的本质
   matongxue
   https://www.zhihu.com/question/36966326/answer/162550802
   https://www.matongxue.com/madocs/247.html (相同,不过是matongxue的网站)
+  认为是 利用矩阵进行线性变换时 的拉伸因子.
+
