@@ -176,3 +176,103 @@ be subject to               受支配
 pending                     等待的
 memo                        备忘录
 Retrieves                   恢复, 取回
+proposed                    提出
+variablity                  变异性
+universal                   通用
+primitive                   原始的
+advancement                 提升
+verification                验证
+improvement                 改进
+duration                    持续时间
+scenarios                   情况
+opportunity                 机会,机遇
+extensive                   广阔的, 广泛的
+considerable                相当多的, 大量的
+latent                      潜在的,隐含的 potential
+paradigm                    范例
+inter-session               会话间
+Motivate                    激励
+futher                      进一步, 未来
+elegant                     优雅的,漂亮的
+schematic                   纲要性质的
+employ                      利用, 雇佣
+straightforward             直接的
+generative                  生成的
+sufficient                  充足的
+relevance                   相关的
+benchmarks                  基准点  baseline
+dominant                    占优势的
+evidenced                   证明  明显
+numerous                    数不清的
+sites                       地点 站点
+conferences                 会议
+multivariate                多元的
+density                     密度
+capable                     能干的
+aribitrary                  任意的
+consistently                保持 一惯的 坚持的 
+remainder                   剩余部分
+optimum                     最合适的
+convey                      表达  输送 携带?
+confounding                 混乱
+inherent                    固有的
+synchronous                 同步的
+instants                    片段
+characterizes               刻画 是...的特征
+ratio                       比率
+drawback                    缺点
+canonical                   权威的
+unimodal                    单峰的
+Collectively                结合起来
+empirically                 经验来看
+refines                     精炼, 变好
+monotonically               单调的
+convergence                 收敛
+underestimating             对...认识不足
+compensation                补偿
+hybrid                      混合组合
+undue                       不适当的, 过度的
+storage                     存储 
+demands                     需求
+expensive                   高代价的, 昂贵的
+inexpensive                 便宜的
+sensitive                   敏感的
+insensitive                 不敏感的
+latter                      后者
+exploitation                开发 利用
+discards                    丢弃
+tracks                      追踪, 检测
+conversational              会话
+eliminate                   消除
+account                     记录, 报告, 解释, 导致
+reflective                  反应的, 深思熟虑的.
+alternative                 备选的
+guidlines                   准则
+amount of                   数量
+merely                      只是
+dominant                    占优势的
+argument                    论点
+individual                  不同的, 个人的
+tighter                     紧密的
+coupling                    耦合
+resembles                   类似于
+tuning                      调整
+demonstrated                论证, 被证明
+propose                     提出
+yields                      产生了
+as opposed to               而不是
+nuisance                    讨厌的
+eigenvoice                  本征音 -- 一个语段特征 
+eigenchannel                本征通道
+(在 ASR的 联合因子分析中描述 在抽取spker超矢量时, 
+eigenvoice   代表说话人信息经过变换对<说话人空间> 带来的差别
+eigenchannel 代表在说话人空间中 信道经过变换带来的影响(需要信道补偿技术去掉))
+
+consist in                  包括在
+
+
+
+
+
+
+

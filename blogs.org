@@ -1,2 +1,4 @@
 机器学习 总览
 https://blog.csdn.net/ls44534286/article/details/77850843
+平衡二叉树
+http://lib.csdn.net/article/datastructure/9204

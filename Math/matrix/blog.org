@@ -1,0 +1,25 @@
+* 矩阵本质
+  myan 孟岩
+  https://blog.csdn.net/myan/article/details/647511
+  
+
+* 矩阵乘法的本质
+  matongxue
+  https://www.zhihu.com/question/21351965/answer/204058188
+
+
+
+* 特征向量 特征值 PCA SVD
+
+  matongxue 特征值 特征向量的本质(good)
+  https://www.matongxue.com/madocs/228.html
+  机器学习中的数学(5)-强大的矩阵奇异值分解(SVD)及其应用
+  http://www.cnblogs.com/LeftNotEasy/archive/2011/01/19/svd-and-applications.html
+
+
+
+
+* 行列式的本质
+  matongxue
+  https://www.zhihu.com/question/36966326/answer/162550802
+  https://www.matongxue.com/madocs/247.html (相同,不过是matongxue的网站)
