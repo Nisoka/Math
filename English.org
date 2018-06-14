@@ -269,7 +269,93 @@ eigenvoice   代表说话人信息经过变换对<说话人空间> 带来的差�
 eigenchannel 代表在说话人空间中 信道经过变换带来的影响(需要信道补偿技术去掉))
 
 consist in                  包括在
-
+as illustrated              如图所示
+lower panel                 下部分
+matrix inversion            矩阵求逆
+infer                       推导
+inference                   推论
+omit                        去掉, 激发
+formulation                 公式
+relevance                   相关性
+absent                      缺席的
+envisage                    想象,认为
+exploited                   被剥开(分解)
+compound                    复合物
+involves                    涉及
+notations                   标记
+express                     表示
+desirable                   满意的, 希望的, 想要的
+intractable                 不好解决的
+precision                   精度
+possesses                   具有
+depicted                    描述的
+complement                  补充物
+lemma                       引理
+centralized                 中心化
+concatenating               联接起来, 级联
+decoupled                   解耦
+equivalent                  相等的
+infinity                    无穷的
+feasible                    可行的
+sparse                      稀疏的
+constrain                   约束,限制
+contain                     包含
+saturates                   饱和, 拟合成功
+plateau                     平稳, 收敛
+explicitly                  明确的
+mechanism                   机制
+concentrated                集中的
+invertible                  可逆的
+integrate                   积分
+burden                      负担
+modest                      谦虚的 较少的
+provided                    如果
+imposed                     强制使
+enlisted                    加入列表
+asymptotically              渐进, 接近
+boost                       促进
+satisfactory                满意的
+tradeoff                    折中
+appealing                   吸引人的
+recourse                    依赖
+variant                     变体
+principal                   主要的
+give rise to                造成
+loosely                     松散的
+confronting                 面对
+enormous                    巨大的
+amenable                    可控制的, 可实验的
+adopted                     采取
+perspective                 观点
+deviations                  偏离
+eliminated                  消除
+augment                     增强
+artifacts                   人工产品
+outline                     概述
+integrate                   整合
+with respect to             关于
+convergent                  收敛
+successive                  连续的
+extent                      程度
+extend                      延伸
+explanatory                 解释性的
+degeneracy                  退化
+arise                       产生
+Proposition                 主题, 建议
+rationale                   基本原理
+likewise                    同样的
+equations                   方程式
+integral                    积分
+differentiating             微分
+More specifically           更具体的说
+present                     描述
+resemble                    相似的
+resulting in                导致
+substitute                  替换
+retrieved                   取出
+elimite                     消除
+augment                     增强
+rationale                   理论基础
 
 
 
