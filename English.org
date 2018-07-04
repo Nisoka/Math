@@ -351,14 +351,111 @@ More specifically           更具体的说
 present                     描述
 resemble                    相似的
 resulting in                导致
-substitute                  替换
+substitute                  替换, 带入(子式)
 retrieved                   取出
 elimite                     消除
 augment                     增强
 rationale                   理论基础
+constitutes                 构成
+seamlessly                  无缝的
+strategies                  策略
+deviation                   偏差
+optimal                     最佳的
+indicator                   指示器
+plentiful                   丰富的
+intuition                   直觉
+suppose                     认为是
+identity                    鉴别
+numerous                    很多
+naive                       朴素的
+apparent                    显然的
+origin                      起源 演变
+divide                      分割
+exponentially               指数的
+sophisticated               复杂的
+insight                     洞察, 考虑
+rapidly                     迅速
+wieldy                      使用,可用
+unwieldy                    不可用
+utility                     实用
+geometrical                 几何的
+sphere                      范围, 球体(范围)
+extensive                   广泛的
+quantifying                 量化
+manipulating                计算
+involve                     涉及
+comprise                    由...组成
+whereas                     然而
+aspect                      方向
+diagnosis                   诊断
+intensities                 强度
+presence                    存在   
+absence                     不存在 缺乏
+information quantity        信息量
+inference                   推断 
+trivial                     不重要的 琐碎的
+in light of                 根据
+conversely                  相对的
+prematrue                   过早的
+consequences                结果
+dramatically                相当, 十分
+formalize                   形式化
+incurred                    招致, 遭受
 
-
-
-
-
-
+heuristic                   启发性的
+pretend                     假装
+poorly defined              糟糕定义的
+scatter                     散开的 散点
+concentrate                 集中
+across                      穿过(各类别)
+within                      内部
+symmetric                   对称
+simultaneously              同时
+equations                   公式
+accent                      口音
+specific nature             特殊性质
+relevance                   相关
+be of relevance             是相关的
+forensic                    法庭, 辩论
+attached                    附加的
+compensate                  补偿
+mismatch                    不匹配
+modal                       情形, 情况
+incorporate                 合并
+in contrast to              与... 对比
+address                     解决
+exploit                     开发
+accomplished                完成
+conducted                   实施
+full pool of                全池的,
+conversational              会话的
+broadcast                   广播电台
+condsiderable               相当大的, 应注意的
+scarce                      缺少的
+optimum                     最合适的
+improper                    不合适的
+aid                         帮助
+multilingual                多语种
+outline                     概要
+ordinary                    普通的
+divergence                  分离的, 分散
+undesirable                 不和需要的, 不合适的
+peaked                      尖峰的
+empirical                   经验主义的
+revealed                    显示
+severe                      严峻的,不好的
+participants                参与者
+whitened                    白化
+sphere                      范围, 球体
+varied                      多变的
+metric                      度量
+evaluation                  评估值
+consistently                一定的
+substantially               基本上
+profound                    意义深远的
+impact                      影响
+eliminates                  消除
+regardless                  不管
+fusion                      融合
+parallel                    并行
+clues                       提示帮助
