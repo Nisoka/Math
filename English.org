@@ -448,7 +448,7 @@ participants                参与者
 whitened                    白化
 sphere                      范围, 球体
 varied                      多变的
-metric                      度量
+metric                      度量, 度量标准, 评价指标?
 evaluation                  评估值
 consistently                一定的
 substantially               基本上
@@ -459,3 +459,181 @@ regardless                  不管
 fusion                      融合
 parallel                    并行
 clues                       提示帮助
+Incorporating  as           组合 ... 作为
+State-of-the-art            最先进, 性能最好, 最高艺术的
+proposed                    提出的
+relative                    相对的
+calibration                 校准
+deviations                  偏差
+assessment                  评估
+induced                     诱导,催生
+conveying                   传送,携带
+seldom                      极少的
+utilized                    利用
+integrated                  集成的, 整体的
+compromising                妥协的, 难堪的
+imputation                  归责于
+conjunction                 结合
+arbitrary                   任意的
+possess                     具有
+histograms                  直方图
+dramatically                剧烈的, 戏剧性的
+degrades                    下降
+deemed                      视为
+suppress                    抑制
+providing                   假设, 如何, 提供
+correlation                 相关性
+informative                 信息详实的
+sparseness                  稀疏性
+fused                       熔合
+complementary               互补的
+process                     过程
+perplexity                  复杂
+innovation                  革新
+overcome                    克服
+
+phone                       音素
+senone                      音素状态(phone state)
+phoneme                     音位(有意思?)
+multinomial                 多项式
+annotations                 注释
+renormalizes                重新归整
+convergence                 收敛
+heuristics                  启发法
+numerical                   数字上的
+strategy                    策略
+replicas                    重复
+asynchronous                异步
+manipulation                操作
+Hybrid                      混合
+explore                     探测, 研究
+majority                    主要部分, 大多数
+inspired                    收到启发的
+portion                     部分
+investigate                 调查, 研究
+falls into                  落入, 
+synthesize                  合成
+reverberation               混响
+diagram                     图标 示意图
+constitutes                 构建, 指定
+mimics                      模拟物
+reorient                    重定向, 使适应
+seamlessly                  无缝的
+benchmark                   基准, 检验
+assessment                  评价
+evaluate                    评价
+relevant                    有关的
+the remainder of            余下的
+remainder                   剩余的
+disentangle                 解开, 
+disposal                    处理的
+characterized by            以什么为特征
+conjunction                 联合
+To account for              为了解释
+emphasis                    强调, 突出
+theoretical                 原理的
+conducted                   进行, 生成
+orthogonal                  正交, 直角的
+arbitrarily                 任意的
+feasibility                 可行性
+exploiting                  开发 利用
+equally reliable            相同可信度的
+imputation                  归责于
+inclusion                   包含
+reflect                     反应
+reveal                      揭示
+subsequently                随后
+apparent                    显然
+exception                   例外, 除了
+expectation                 期望
+substantial                 大量的
+magnitude                   巨大的, 量级
+order of magnitude          量级
+heuristic                   启发式的, 试探式的.
+hierarchical                分级的
+agglomerative               结块的, 凝聚
+agglomerative hierarchical cluster  凝聚层次聚类
+validated                   证实是有效的
+distortions                 失真
+characterizes               是..的特征
+characterizes distortions   表示失真特征
+is leveraged to             促使 改变
+tackle                      解决 
+existing                    现有的
+mechanism                   机制
+paradigm                    范式, 例子
+was cast as                 被构造为
+exhaustive                  详尽的,详细的
+combinatorial explosion     组合爆炸
+is not scalable             不可扩展的
+pretending                  假装
+feasible                    可行的
+the lack of                 缺乏
+customary                   习惯的
+immune                      免疫, 抵抗
+prone                       易于
+to date                     至今, 
+premises                    前提
+in favor of                 赞成, 支持
+interpolation               插值
+exposes                     揭露
+comprises                   包含
+dominant                    统治地位的, 域内显性的
+scattered apart             散开 
+scattered                   分散的
+gap                         间隔
+complementary               互补的
+underestimate               低估
+diminishing                 逐渐缩小
+monotonically               单调的
+plateaus                    平稳 
+avenue                      手段
+be attributed to            归因于
+attributed to               由于
+heterogeneous               各种各样的, 混杂的
+homogenous                  同系的
+managed to                  设法
+degradation                 降级 
+concurrently                同时
+held                        举行
+preliminary                 初步的 初级的
+mere                        纯粹的
+cope                        处理, 应对
+empirical                   经验主义的
+impostor                    骗子, 假的
+whatsoever                  无论如何
+persued                     追求
+outline                     大纲
+therefore                   因此
+with respect to             关于
+
+evidently                   显然的, 毫无疑问的
+reside                      驻在, 居住在, 留存在
+inappropriate               不恰当的
+multivariate                多元的
+strive                      努力
+precision                   精度
+merit                       价值, 优点
+advantage                   优点
+unfiying                    统一的
+reveal                      揭示
+generation process          生成过程
+quadratic                   二次方的
+invariant                   无变化的
+impostor                    骗子
+scarcity                    稀少的
+namely                      即, 也就是
+symmetries                  对称
+symmetric matrix            对称阵
+identical                   完全一样的
+correlated                  相关的
+obey                        遵守
+devote                      忠于, 主要负责, 风险给
+sake                        目的
+clarity                     清晰性
+entail                      需要, 附带
+exploit                     利用, 开发利用
+cardinality                 基数
+analogy                     类比
+contour                     轮廓, 外形
+
