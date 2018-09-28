@@ -636,4 +636,49 @@ exploit                     利用, 开发利用
 cardinality                 基数
 analogy                     类比
 contour                     轮廓, 外形
+complement                  补足, 补充
+substantial                 大量的
+generalized                 广泛的
+target or imposter          目标 或 诱骗
+prescribe                   指定
+coming up with              想出
+derivation                  推导, 导出
+subject to                  条件为, 从属于, 约束
+project out of              自...离开, 提出
+exclusively                 唯一的, 特地的, 仅仅
+diminish                    减小
+reflect                     反映, 考虑
+cascade                     串联, 顺序的
+eliminate                   消除
+conjecture                  猜想
+yield                       产生, 屈服
+articulatory                分节的
+articulation                发音
+by-product                  副产品
+succeeding                  以后的
+subsequently                以后的
+conservative                保守的
+scarce                      缺乏
+inductive                   归纳
+sake                        缘故
+simulates                   模拟
+proportions                 部分
+Specialized                 专门的
+yield                       产量, 屈服
+fetch                       取出
+cepstral                    倒谱
+spectral                    谱的
+inferiority                 低劣
+suffer about                受苦
+integration                 整合
 
+anonymous                   匿名的, 无名的
+inadequate                  不充足的
+token                       令牌, 节点
+simplex                     单纯形
+monotonically               单调的
+slight                      较小的, 轻微的
+intuitive                   直观的
+modest                      谦虚的
+magnitude                   量级
+over-complete               超完备
